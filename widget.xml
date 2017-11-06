@@ -95,7 +95,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <label id=''  style="position: absolute; left: 181.015625px; top: 281.03125px;  "><input  class="edit this one"  type="checkbox" id="checkbox_d7bb8"   >Test</label>
 
    
-<label id=''  style="position: absolute; left: 217.015625px; top: 170.03125px;  "><input  name="a cool name"  class="tttttttt"  type="radio" id="radio_e696c"   >Option</label>
+<label id=''  style="position: absolute; left: 217.015625px; top: 170.03125px;  "><input  name="a cool name"  class="tttttttt"  type="radio" id="radio_e696c"   >A cool label</label>
 
  
   </div>
